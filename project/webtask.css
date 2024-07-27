@@ -1,0 +1,735 @@
+*{
+    margin: 0;
+}
+#r{
+    height: 100vh;
+   
+} 
+
+#ved{
+    position: absolute;
+  
+     width: 100%;
+   
+    
+}
+#ram{
+    color: white;
+    height: 90px; 
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 7% !important;
+    margin-right: 5% !important; 
+    border-bottom: 2px solid white;
+    position: relative;
+    bottom: 7px;
+    
+
+}
+#ram1{
+    color: white;
+    height: inherit;
+    /* width: 300px; */
+    width: 50%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size: 1.1rem;
+    font-weight: 700;
+}
+#ram2{
+    color: white;
+    
+    height: 60px;
+    width: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#y1{
+    position: relative;
+    right: 15px;
+}
+.sam:hover{
+    
+border-bottom: 2px solid rgb(74, 74, 165);
+
+}
+#hi{
+    color: white;
+    position: relative;
+    left: 94px;
+    top: 5px;
+    font-weight: 300;
+    line-height: 1.5rem;
+    text-rendering: optimizeSpeed;
+    font-size: 19px;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    width: 300px;
+
+
+}
+#hi1{
+    color: white;
+    position: relative;
+    left: 100px;
+    top: 110px;
+    letter-spacing: 2px;  
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    font-size: 1pc;
+    font-weight: 300;
+    width: 400px;
+  
+    
+
+}
+#hi2{
+    color: white;
+    position: relative;
+    width: 50%;
+    left: 110px;
+    top: 103px;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    font-size: 170px;
+    width: 500px;
+}
+#hi3{
+    color: white;
+    position: relative;
+    left: 110px;
+    top: 103px;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    font-size: 17px;
+    width: 500px;
+}
+#hi4{
+    color: white;
+    position: relative;
+    left: 110px;
+    top: 130px;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    font-size: 17px;
+    width: 1200px;
+}
+span{
+    border: 1px solid white;
+    background-color: blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 45px;
+        width:12%;
+        font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+       
+    }
+    #section2{
+        height: 100vh;
+        width: 100%;
+    }
+   #img2{
+        position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover; 
+}
+.page{
+
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    top: 233px;
+    left: 134px;
+    letter-spacing: 2px;
+    font-size: 17px;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    width: 1000px;
+}
+    
+#span1{
+    border: 1px solid white;
+    background-color: blue;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 45px;
+        width:12%;
+        font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+        position: relative;
+        top: 119px;
+        left: 23px;
+    }
+    #page4{
+        color: white;
+        display: flex;
+        justify-content: flex-start;
+        justify-content: space-between;
+        align-items: center;
+        font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+        position: relative;
+        top: 241px;
+        left: 132px;
+        font-size: 25px;
+        width: 1000px;
+
+    }
+    #page3{
+        color: white;
+        display: flex;
+        justify-content: flex-start;
+        justify-content: space-between;
+        align-items: center;
+        font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+        position: relative;
+        top: 241px;
+        left: 132px;
+        font-size: 65px;
+        width: 1000px;
+
+    }
+    #section3{
+height: 100vh;
+}
+#div1{
+    height: 70vh;
+}
+#d1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10ph;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    position: relative;
+    top: 13px;
+    left: 328px;
+    letter-spacing: 2px;
+    width: 700px;
+
+}
+
+#d2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 55px;
+    position: relative;
+    top: 13px;
+    left: 338px;
+    letter-spacing: 2px;
+    width: 700px;
+
+  
+}
+
+#div2{
+    height: 50vh;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+
+    /* position: absolute; */
+}
+#img3{
+    position: absolute;
+    height: 70vh;
+    width: 100%;
+    object-fit: cover;
+    }
+    #d3{
+       
+position: relative;
+display: flex;
+justify-content: center;
+align-items: center;
+top: 0;
+left:0;
+    }
+    #d4{
+       
+
+display: flex;
+justify-content: center;
+align-items: center;
+
+    }
+    #i1{
+        display: flex;
+justify-content: center;
+align-items: center;
+position: relative;
+top: 5px;
+left: -255px;
+font-size: 20px;
+    }
+  #i2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 5px;
+         left: 1px;
+         font-size: 20px;   
+          font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+
+
+    }
+    #i3{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 5px;
+        left: 257px;
+        font-size: 20px;
+
+    }
+    #d5{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    #i4{
+        border: 1px solid black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 53px;
+         left: -238px;
+         font-size: 20px;
+         height: 50px;
+         width: 10%;
+         font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+
+    }
+    #i5{
+        border: 1px solid black;
+        height: 50px;
+        width: 15%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 53px;
+         left: 22px;
+         font-size: 20px;
+         font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+
+    }
+    #i6{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: 53px;
+         left: 227px;
+         font-size: 20px;
+         border: 1px solid black;
+        height: 50px;
+        width: 14%;
+        font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+
+    }
+    #i7{
+        color: white;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        position: relative;
+        top: -148px;
+         left: -542px;
+         font-size: 40px;
+         font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;  }
+   #i8{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -148px;
+     left: -348px;
+     font-size: 25px;
+     font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif; 
+   }
+   #i9{
+border: 1px solid white;
+height: 40px;
+width: 12%;
+
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -130px;
+     left: 78px;
+     font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+     font-size: larger;
+   }
+
+   #sec4{
+    height: 200vh;
+   }
+   #to{
+    width: 100%;
+    position: relative;
+    top: 280px;
+    left: 0;
+   }
+#i10{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -53px;
+    left: -321px;
+    font-size: 50px;
+    letter-spacing: 1px;
+
+}
+#i11{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -34px;
+    right: 522px;
+    font-size: 50px;
+    letter-spacing: 1px;
+}
+#i12{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -2px;
+    right: -83px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    border: 1px solid white;
+    height: 50px;
+    width: 21%;
+}
+#i13{
+    position: relative;
+    top: 143px;
+    left: 97px;
+    height: 50vh;
+    width: 90vh;
+}
+#i14{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -111px;
+    right: -516px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    width: 500px;
+}
+#i15{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -98px;
+    right: -628px;
+    font-size: 50px;
+    letter-spacing: 1px;
+    width: 700px;
+}
+#i16{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -98px;
+    right: -457px;
+    font-size: 50px;
+    letter-spacing: 1px;
+    width: 700px;
+}
+#i17{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -80px;
+    right: -641px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    width: 700px;
+}
+#i18{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -70px;
+    right: -489px;
+    font-size: 15px;
+    /* letter-spacing: 1px; */
+    width: 700px;
+}
+#i19{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -30px;
+    right: -695px;
+    font-size: 15px;
+    /* letter-spacing: 1px; */
+    border: 1px solid black;
+    height: 50px;
+    width: 12%;
+}
+#sec5{
+height: 50vh;
+}
+#i20{
+    position: relative;
+    top: -85px;
+    left: 97px;
+    height: 50vh;
+    width: 90vh;
+}
+#i21{display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -338px;
+    right: -436px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    width: 700px;
+}
+#i22{display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -329px;
+    right: -632px;
+    font-size: 50px;
+    letter-spacing: 1px;
+    width: 700px;
+
+}
+#i23{display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -320px;
+    right: -604px;
+    font-size: 15px;
+        width: 700px;
+
+}
+#i24{display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -312px;
+    right: -481px;
+    font-size: 15px;
+    width: 700px;
+
+}
+    #i25{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+    top: -281px;
+    right: -695px;
+    font-size: 15px;
+    /* letter-spacing: 1px; */
+    border: 1px solid black;
+    height: 50px;
+    width: 12%;
+    }
+    #i26{
+        position: relative;
+        top: -208px;
+        left: 0;
+        border: 1px solid gainsboro;
+    }
+    #i27{
+        display: flex;
+        justify-content: start;
+        align-items:flex-start;
+        position: relative;
+        top: -180px;
+        left: 97px;
+        font-size: 12px;
+        letter-spacing: 2px;
+        width: 500px;
+    }
+    #i28{
+        display: flex;
+        justify-content: start;
+        align-items:flex-start;
+        position: relative;
+        top: -197px;
+        left: 279px;
+        width: 700px;
+
+    }
+    #i29{
+        border: 2px solid ghostwhite;
+        background-color: ghostwhite;
+        height: 400px;
+        position: relative;
+        top: -163px;
+        left: 0;
+       
+       
+    }
+    #i40{
+        display: flex;
+        
+    }
+   
+    #i30{
+        display: flex;
+        flex-direction: column;
+        margin-top: 70px;
+        margin-left: 50px;
+        list-style: none;
+    }
+    .r2{
+        border: 2px solid ghostwhite;
+        height: 30px;
+    }
+
+    #i33{
+        display: flex;
+        flex-direction: column;
+        margin-top: 70px;
+        margin-left: 50px;
+        list-style: none;
+    }
+    #i35{
+        display: flex;
+        flex-direction: column;
+        margin-top: 70px;
+        margin-left: 50px;
+        list-style: none;
+    }
+    #i37{
+        display: flex;
+        flex-direction: column;
+        margin-top: 70px;
+        margin-left: 50px;
+        list-style: none;
+    }
+    .r2{
+        font-weight: 700;
+        font-family: bmwTypeNextWeb, Arial, Helvetica, Roboto, sans-serif;
+
+    }
+    #i32{
+        font-weight: normal;
+        letter-spacing: 2px;
+        font-size: 12px;
+    }
+    #i34{
+        font-weight: normal;
+        letter-spacing: 2px;
+        font-size: 12px;
+    }
+    #i36{ font-weight: normal;
+        letter-spacing: 2px;
+        font-size: 12px;}
+    #i38{ font-weight: normal;
+        letter-spacing: 2px;
+        font-size: 12px;}
+    #i28{
+        font-weight: 700;
+    }
+    #i39{
+        margin-top: 65px;
+        display: flex;
+        justify-content: flex-start;
+        justify-content: space-around;
+        width: 190px;
+        align-items: center;
+        margin-left: 90px;
+    }
+    .x1{
+        position: relative;
+        top: -129px;
+        left: 97px;
+        width: 200px;
+    }
+    .x2{
+        position: relative;
+        top: -139px;
+        left: 878px;
+        width: 200px;
+    }
+    .x3{
+        position: relative;
+        top: -157px;
+        left: 1084px;
+        width: 100px;
+    }
+    .x4{
+         position: relative;
+        top: -175px;
+        left: 1207px; 
+        width: 100px;
+        /* margin-top: 0;
+        margin-left: 0;
+        width: 200px; */
+    }
+    #i50{
+        border: 20px solid white;
+        background-color: aliceblue;
+        border-radius: 100px;
+      position: fixed;
+      top: 301px;
+      left: 1236px;
+    
+      
+    }
+   #i53{
+    height: 20px;
+    width: 60px;
+   }
+   #t20{
+    height: 20px;
+    width: 60px;
+   }
+.h2{
+    border: 1px solid white;
+    background-color: white;
+    height: 20px;
+    width: 20px;
+   }
+   .hello{
+    display: inline-block;
+   }
